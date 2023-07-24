@@ -84,7 +84,7 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/my_db
+    url: jdbc:mysql://localhost:3306/yuapi
     username: root
     password: 123456
 ```
@@ -162,4 +162,4 @@ PUT post_v1
 ```java
 // todo 取消注释开启任务
 //@Component
-```
+```"# yuapi" 
